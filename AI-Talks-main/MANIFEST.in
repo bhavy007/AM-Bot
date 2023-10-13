@@ -1,0 +1,3 @@
+include AI-Talks-main\ai_talks\assets/*
+include AI-Talks-main\ai_talks\src\styles\.css
+
