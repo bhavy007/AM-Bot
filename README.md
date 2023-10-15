@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ### 3. Add API Key
 
-You will need to add your API key to the `secrets.toml` file in the `.streamlit` directory. If you don't have an API key, obtain one from the relevant service provider.
+You will need to add your API key to the `secrets.toml` file in the `.streamlit` directory.
 
 ```toml
 [api_credentials]
@@ -31,8 +31,6 @@ api_key = "sk-..."
 
 Replace `"sk-..."` with your actual API key.
 
-For now I have provided my own GPT API key.
-Please note: Keep your API key confidential and never share it publicly.
 
 ## Usage
 
